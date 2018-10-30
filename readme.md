@@ -44,6 +44,7 @@
 ### Alexa Tutorials
 -   [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
 -   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
+-   [Fact Skill Tutorial](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
 
 ### Github
 - [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
