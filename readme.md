@@ -1,5 +1,5 @@
 
-## Welcome to Cleveland High School's Computer Science Awesome List! Here you can find links to sites for school, events, code, or anything in between!
+## Welcome to Cleveland High School's Computer Science Awesome List! Here you can find links to sites relating to school, events, coding, or anything in between!
 
 ### [CHS CS Moodle](http://moodle.clevelandhighschool.org/)
 
@@ -24,7 +24,7 @@
 
 ### Python 
 -   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
--   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp)
+-   [Python W3Schools Tutorial](https://www.w3schools.com/python/default.asp)
 -   [Processing Python Functions Reference](https://py.processing.org/reference/)
 -   [Practical Python Project Exposure](https://pythonprogramming.net/)
 -   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
@@ -39,22 +39,22 @@
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp)
 
 ### Chrome Extensions
-- [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
+-   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
 
 ### Alexa Tutorials
--   [Building Alexa Skills(YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+-   [Building Alexa Skills (YT)](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
 -   [Learning Alexa with Codecademy](https://www.codecademy.com/learn/learn-alexa)
 
 ### Github
-- [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
-- [Learn Git Branching](https://learngitbranching.js.org/)
-- [How to create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
-- [How to use Git and Github video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-- [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
-- [Learn Git Branching](https://learngitbranching.js.org/)
-- [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
-- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [how to create a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+-   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+-   [Learn Git Branching](https://learngitbranching.js.org/)
+-   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+-   [How to use Git and Github video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+-   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+-   [Learn Git Branching](https://learngitbranching.js.org/)
+-   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/)
+-   [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+-   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
 ### Other
 -   [Alexa Skill](https://www.codecademy.com/learn/learn-alexa)
