@@ -71,6 +71,7 @@
 ### Arduino
 
 -   [oomlout](http://oomlout.com/oom.php/){:target="_blank"}
+-   [Official Arduino tutorials](https://www.arduino.cc/en/Tutorial/HomePage){:target="_blank"}
 
 ### Alexa Tutorials
 
