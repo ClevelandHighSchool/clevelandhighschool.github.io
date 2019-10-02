@@ -1,5 +1,5 @@
+### CHS CS
 
-### CHS CS 
 -   [CHS CS Moodle](https://csmoodle.clevelandhighschool.org/){:target="_blank"}
 -   [Mr. Walker's Classroom Blog](http://mrwalker.clevelandhighschool.org/){:target="_blank"}
 -   [CHS CS Course Descriptions](http://www.clevelandhighschool.org/courses.html){:target="_blank"}
@@ -7,6 +7,7 @@
 -   [Space Rocks HTML Game](http://www.clevelandhighschool.org/spacerocks/){:target="_blank"}
 
 ### CHS
+
 -   [CHS CS Moodle](http://moodle.clevelandhighschool.org/){:target="_blank"}
 -   [Cleveland High School Bulletin](https://www.pps.net/Page/8600){:target="_blank"}
 -   [StudentVue](https://parent-portland.cascadetech.org/portland/){:target="_blank"}
@@ -28,8 +29,8 @@
 -   [Robotics](#Robotics)
 -   [Other](#Other)
 
-
 ### CS Class Tools
+
 -   [Draw.io](https://www.draw.io/){:target="_blank"}
 -   [Awesome List](https://github.com/sindresorhus/awesome){:target="_blank"}
 -   [ScreenToGIF](https://www.screentogif.com/){:target="_blank"}
@@ -38,7 +39,8 @@
 -   [Open Processing - Creative Coding](https://www.openprocessing.org/){:target="_blank"}
 -   [Processing.org](https://processing.org/){:target="_blank"}
 
-### Python 
+### Python
+
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp){:target="_blank"}
 -   [Processing Python Functions Reference](https://py.processing.org/reference/){:target="_blank"}
 -   [Practical Python Project Exposure](https://pythonprogramming.net/){:target="_blank"}
@@ -51,27 +53,34 @@
 -   [Awesome Python](https://awesome-python.com/){:target="_blank"}
 
 ### HTML+CSS
+
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp){:target="_blank"}
 -   [DASH](https://dash.generalassemb.ly/){:target="_blank"}
 
 ### Chrome Extensions
+
 -   [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted){:target="_blank"}
 
 ### IB
+
 -   [Computer Science Wiki (IB)](https://computersciencewiki.org/index.php/Welcome){:target="_blank"}
 
 ### Arduino
+
 -   [oomlout](http://oomlout.com/oom.php/){:target="_blank"}
 
 ### Alexa Tutorials
+
 -   [Amazon Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit){:target="_blank"}
- 
+
 ### Images
+
 -   [Photopea: web based advanced image editor](https://www.photopea.com/){:target="_blank"}
 -   [Web Resizer](http://webresizer.com/resizer/){:target="_blank"}
 -   [Remove Background](https://www.remove.bg/){:target="_blank"}
- 
+
 ### Github
+
 -   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request){:target="_blank"}
 -   [Learn Git Branching](https://learngitbranching.js.org/){:target="_blank"}
 -   [How to use Git and Github Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV){:target="_blank"}
@@ -79,31 +88,38 @@
 -   [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851){:target="_blank"}
 
 ### Robotics
+
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
 
 ### Hardware
+
 -   [Pick Parts. Build Your PC](https://pcpartpicker.com/){:target="_blank"}
 
 ### Networking
+
 -   [Ekahau HeatMapper](https://hackaday.com/2009/06/16/ekahau-heatmapper-maps-out-wifi-signals/){:target="_blank"}
 -   [Tor Project](https://www.torproject.org/){:target="_blank"}
 -   [NameCheap](https://www.namecheap.com/){:target="_blank"}
 -   [Network Monitoring Tools](http://nirsoft.net/network_tools.html){:target="_blank"}
 
 ### Design
+
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
 -   [David Seah](https://davidseah.com/){:target="_blank}
 
 ### Linux
+
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
 -   [PacVIM](https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/){:target="_blank}
 
 ### School
+
 -   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
 -   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
 
 ### Other
+
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
 -   [Photomath](https://photomath.net/en/){:target="_blank"}
 -   [Codecademy](https://www.codecademy.com/){:target="_blank"}
@@ -125,5 +141,3 @@
 -   [Explore.org Live Cams](https://explore.org/livecams/explore-all-cams/decorah-eagles){:target="_blank"}
 -   [Developers Swag](https://devswag.io/){:target="_blank"}
 -   [Localhost](http://localhost/){:target="_blank"}
-
-
