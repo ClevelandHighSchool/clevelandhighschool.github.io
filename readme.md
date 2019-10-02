@@ -95,6 +95,7 @@
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
 -   [David Seah](https://davidseah.com/){:target="_blank}
+-   [Canva](https://www.canva.com/){:target="_blank}
 
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
