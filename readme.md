@@ -82,6 +82,7 @@
 
 ### Robotics
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
+-   [Cleveland Robotics](https://www.pigmice.com){:target="_blank"}
 
 ### Hardware
 -   [Pick Parts. Build Your PC](https://pcpartpicker.com/){:target="_blank"}
