@@ -4,7 +4,6 @@
 -   [Mr. Walker's Classroom Blog](http://mrwalker.clevelandhighschool.org/){:target="_blank"}
 -   [CHS CS Course Descriptions](http://www.clevelandhighschool.org/courses.html){:target="_blank"}
 -   [CHS CS Processing Activity](http://processing.clevelandhighschool.org/){:target="_blank"}
--   [Space Rocks HTML Game](http://www.clevelandhighschool.org/spacerocks/){:target="_blank"}
 
 ### CHS
 -   [CHS CS Moodle](http://moodle.clevelandhighschool.org/){:target="_blank"}
@@ -102,6 +101,7 @@
 -   [Nvidia Gaugan: AI based landscaping tool](http://nvidia-research-mingyuliu.com/gaugan/){:target="_blank"}
  
 ### Github
+-   [Space Rocks HTML Game Hosted in GitHub](http://www.clevelandhighschool.org/spacerocks/){:target="_blank"}
 -   [How to Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github){:target="_blank"}
 -   [GitHub Learning Lab](https://lab.github.com/){:target="_blank"}
 -   [Learn Git Branching](https://learngitbranching.js.org/){:target="_blank"}
