@@ -15,9 +15,6 @@
 -   [Naviance](https://student.naviance.com/cleveland){:target="_blank"}
 -   [CHS Warrior Athletics](https://www.clevelandwarriorathletics.com/){:target="_blank"}
 -   [CHS College and Career Website](https://clevelandccc.weebly.com/){:target="_blank"}
--   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
--   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
--   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
 -   [CHS Warrior Updates](https://www.youtube.com/channel/UC2MSuv8vQe7pbHnY4pdfKqg){:target="_blank"}
 -   [CHS Clarion News](https://clevelandclarion.com/){:target="_blank"}
 
@@ -158,4 +155,7 @@
 -   [Localhost](http://localhost/){:target="_blank"}
 -   [w3schools](https://www.w3schools.com){:target="_blank"}
 -   [DEV Community](https://dev.to/){:target="_blank"}
+-   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
+-   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
+-   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
 
