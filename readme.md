@@ -161,4 +161,5 @@
 -   [Localhost](http://localhost/){:target="_blank"}
 -   [w3schools](https://www.w3schools.com){:target="_blank"}
 -   [DEV Community](https://dev.to/){:target="_blank"}
+-   [Autodesk Student License](https://www.autodesk.com/education/free-software/featured){:target="_blank"}
 
