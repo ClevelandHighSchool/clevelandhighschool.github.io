@@ -6,11 +6,11 @@
 -   [CHS CS Processing Activity](http://processing.clevelandhighschool.org/){:target="_blank"}
 
 ### CHS
--   [Cleveland High School Bulletin](https://www.pps.net/Page/8600){:target="_blank"}
+-   [CHS Bulletin](https://www.pps.net/Page/8600){:target="_blank"}
 -   [StudentVue](https://parent-portland.cascadetech.org/portland/){:target="_blank"}
 -   [Bell Schedule](https://www.pps.net/Page/6745){:target="_blank"}
--   [Cleveland Calendar](https://www.pps.net/Page/320#calendar516){:target="_blank"}
--   [Cleveland High School](https://www.pps.net/Domain/109){:target="_blank"}
+-   [CHS Calendar](https://www.pps.net/Page/320#calendar516){:target="_blank"}
+-   [CHS](https://www.pps.net/Domain/109){:target="_blank"}
 -   [Google Classroom](https://classroom.google.com/h){:target="_blank"}
 -   [Naviance](https://student.naviance.com/cleveland){:target="_blank"}
 -   [CHS Warrior Athletics](https://www.clevelandwarriorathletics.com/){:target="_blank"}
@@ -117,6 +117,7 @@
 
 ### Robotics
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
+-   [CHS Pigmice](https://www.pigmice.com/){:target="_blank"}
 
 ### Hardware
 -   [Pick Parts. Build Your PC](https://pcpartpicker.com/){:target="_blank"}
@@ -142,6 +143,7 @@
 -   [Codecademy](https://www.codecademy.com/){:target="_blank"}
 -   [Vettery](https://www.vettery.com/){:target="_blank"}
 -   [TED Talk About Learning](https://www.youtube.com/watch?v=5MgBikgcWnY){:target="_blank"}
+-   [TED Talk About Computer Science](https://www.youtube.com/watch?v=FpMNs7H24X0){:target="_blank"}
 -   [Android Development Book](https://www.bignerdranch.com/books/android-programming/){:target="_blank"}
 -   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/){:target="_blank"}
 -   [Windows SysInternals](https://docs.microsoft.com/en-us/sysinternals/){:target="_blank"}
@@ -162,4 +164,5 @@
 -   [w3schools](https://www.w3schools.com){:target="_blank"}
 -   [DEV Community](https://dev.to/){:target="_blank"}
 -   [Autodesk Student License](https://www.autodesk.com/education/free-software/featured){:target="_blank"}
+-   [Why Study Computer Science?](https://www.depauw.edu/academics/departments-programs/computer-science/why-study-computer-science/){:target="_blank"}
 
