@@ -118,6 +118,7 @@
 
 ### Robotics
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
+-   [CHS Pigmice 2733](https://www.pigmice.com/){:target="_blank"}
 
 ### Hardware
 -   [Pick Parts. Build Your PC](https://pcpartpicker.com/){:target="_blank"}
