@@ -91,19 +91,19 @@
 -   [Amazon Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit){:target="_blank"}
  
 ### Audio
--   [BFXR: sound effect maker](https://www.bfxr.net/){:target="_blank"}
--   [BeepBox: web based music maker](https://www.beepbox.co){:target="_blank"}
+-   [BFXR: Sound Effect Maker](https://www.bfxr.net/){:target="_blank"}
+-   [BeepBox: Web Based Music Maker](https://www.beepbox.co){:target="_blank"}
  
 ### Images
--   [Photopea: web based advanced image editor](https://www.photopea.com/){:target="_blank"}
+-   [Photopea: Web Based Advanced Image Editor](https://www.photopea.com/){:target="_blank"}
 -   [Web Resizer](http://webresizer.com/resizer/){:target="_blank"}
 -   [Remove Background](https://www.remove.bg/){:target="_blank"}
--   [Pxlr: web based photoshop alternative](https://pixlr.com/editor/){:target="_blank"}
--   [Piskel: web based spirte maker](https://www.piskelapp.com/){:target="_blank"}
--   [Nvidia Inpainting: AI based photo editing](https://www.nvidia.com/research/inpainting/){:target="_blank"}
--   [Nvidia Gaugan: AI based landscaping tool](http://nvidia-research-mingyuliu.com/gaugan/){:target="_blank"}
--   [Canva: Free design tool](https://www.canva.com){:target="_blank"}
--   [Figma: Another free design tool](https://www.figma.com){:target="_blank"}
+-   [Pxlr: Web Based Photoshop Alternative](https://pixlr.com/editor/){:target="_blank"}
+-   [Piskel: Web Based Spirte Maker](https://www.piskelapp.com/){:target="_blank"}
+-   [Nvidia Inpainting: AI Based Photo Editing](https://www.nvidia.com/research/inpainting/){:target="_blank"}
+-   [Nvidia Gaugan: AI Based Landscaping Tool](http://nvidia-research-mingyuliu.com/gaugan/){:target="_blank"}
+-   [Canva: Free Design Tool](https://www.canva.com){:target="_blank"}
+-   [Figma: Another Free Design Tool](https://www.figma.com){:target="_blank"}
 
  
 ### Github
@@ -131,7 +131,7 @@
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
 -   [David Seah](https://davidseah.com/){:target="_blank}
--   [Human-centered design charrette - requires Moodle login](https://csmoodle.clevelandhighschool.org/pluginfile.php/2570/mod_page/content/45/HCDCharretteSlideDeck.pdf)
+-   [Human-Centered Design Charrette - Requires Moodle Login](https://csmoodle.clevelandhighschool.org/pluginfile.php/2570/mod_page/content/45/HCDCharretteSlideDeck.pdf)
 
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
