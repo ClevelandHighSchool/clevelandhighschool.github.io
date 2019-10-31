@@ -120,6 +120,7 @@
 ### Robotics
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
 -   [CHS Pigmice](https://www.pigmice.com/){:target="_blank"}
+-   [FRC FIRST Robotics](https://www.firstinspires.org/robotics/frc){:target="_blank"}
 
 ### Hardware
 -   [Pick Parts. Build Your PC](https://pcpartpicker.com/){:target="_blank"}
