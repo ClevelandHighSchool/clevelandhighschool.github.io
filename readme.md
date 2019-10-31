@@ -1,4 +1,21 @@
-
+## Table of Contents
+-   [CS Class Tools](#CS-Class-Tools)
+-   [CS Resources](#CS-Resources)
+-   [Python](#Python)
+-   [HTML & CSS](#HTML+CSS)
+-   [Chrome Extensions](#chrome-extensions)
+-   [IB](#IB)
+-   [Arduino](#Arduino)
+-   [Alexa Tutorials](#Alexa-Tutorials)
+-   [Audio](#Audio)
+-   [Images](#Images)
+-   [Github](#Github)
+-   [Robotics](#Robotics)
+-   [Hardware](#Hardware)
+-   [Networking](#Networking)
+-   [Design](#Design)
+-   [Linux](#Linux)
+-   [Other](#Other)
 ### CHS CS 
 -   [CHS CS Moodle](https://csmoodle.clevelandhighschool.org/){:target="_blank"}
 -   [Mr. Walker's Classroom Blog](http://mrwalker.clevelandhighschool.org/){:target="_blank"}
@@ -20,26 +37,6 @@
 -   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
 -   [CHS Warrior Updates](https://www.youtube.com/channel/UC2MSuv8vQe7pbHnY4pdfKqg){:target="_blank"}
 -   [CHS Clarion News](https://clevelandclarion.com/){:target="_blank"}
-
-## Table of Contents
--   [CS Class Tools](#CS-Class-Tools)
--   [CS Resources](#CS-Resources)
--   [Python](#Python)
--   [HTML & CSS](#HTML+CSS)
--   [Chrome Extensions](#chrome-extensions)
--   [IB](#IB)
--   [Arduino](#Arduino)
--   [Alexa Tutorials](#Alexa-Tutorials)
--   [Audio](#Audio)
--   [Images](#Images)
--   [Github](#Github)
--   [Robotics](#Robotics)
--   [Hardware](#Hardware)
--   [Networking](#Networking)
--   [Design](#Design)
--   [Linux](#Linux)
--   [Other](#Other)
-
 
 ### CS Class Tools
 -   [Draw.io](https://www.draw.io/){:target="_blank"}
