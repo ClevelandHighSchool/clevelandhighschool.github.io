@@ -133,7 +133,8 @@
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
 -   [David Seah](https://davidseah.com/){:target="_blank}
--   [Human-centered design charrette - requires Moodle login](https://csmoodle.clevelandhighschool.org/pluginfile.php/2570/mod_page/content/45/HCDCharretteSlideDeck.pdf)
+-   [Canva](https://www.canva.com/){:target="_blank}
+-   [Human-centered design charrette - requires Moodle login](https://csmoodle.clevelandhighschool.org/pluginfile.php/2570/mod_page/content/45/HCDCharretteSlideDeck.pdf){:target="_blank}
 
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
